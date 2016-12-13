@@ -3,13 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTurtle", "GTurtle\GTurtle.csproj", "{24FEAB36-B616-488A-ADE4-279AA93D529B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GScripting", "GScripting\GScripting.csproj", "{EC912FA9-3B5F-47EA-BDE6-3253BD6F4D6F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GScripting.CodeEditor", "GScripting.CodeEditor\GScripting.CodeEditor.csproj", "{967853AE-B138-45A7-9713-867D82D367F0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoomAndPan", "ZoomAndPan\ZoomAndPan.csproj", "{468ADEDE-6F5E-40C0-99C9-C6DAC4FAC934}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GScripting.SimpleIDE", "GScripting.SimpleIDE\GScripting.SimpleIDE.csproj", "{7CE95542-8229-481B-86BA-4CA2CFE6723A}"
 EndProject
@@ -19,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{24FEAB36-B616-488A-ADE4-279AA93D529B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{24FEAB36-B616-488A-ADE4-279AA93D529B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{24FEAB36-B616-488A-ADE4-279AA93D529B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{24FEAB36-B616-488A-ADE4-279AA93D529B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EC912FA9-3B5F-47EA-BDE6-3253BD6F4D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EC912FA9-3B5F-47EA-BDE6-3253BD6F4D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC912FA9-3B5F-47EA-BDE6-3253BD6F4D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -31,10 +23,6 @@ Global
 		{967853AE-B138-45A7-9713-867D82D367F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{967853AE-B138-45A7-9713-867D82D367F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{967853AE-B138-45A7-9713-867D82D367F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{468ADEDE-6F5E-40C0-99C9-C6DAC4FAC934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{468ADEDE-6F5E-40C0-99C9-C6DAC4FAC934}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{468ADEDE-6F5E-40C0-99C9-C6DAC4FAC934}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{468ADEDE-6F5E-40C0-99C9-C6DAC4FAC934}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7CE95542-8229-481B-86BA-4CA2CFE6723A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7CE95542-8229-481B-86BA-4CA2CFE6723A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CE95542-8229-481B-86BA-4CA2CFE6723A}.Release|Any CPU.ActiveCfg = Release|Any CPU
